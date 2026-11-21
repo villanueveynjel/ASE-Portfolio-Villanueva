@@ -1,2 +1,5 @@
-# ASE-Portfolio-Villanueva
-CPLEX330
+
+**Name:** Angel S. Villanueva 
+**Course Code:** CPLEX330  
+**Section:** COE231
+
